@@ -1,0 +1,20 @@
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\bin\Debug\ОтключениеМонитора.exe.config
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\bin\Debug\ОтключениеМонитора.exe
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\bin\Debug\ОтключениеМонитора.pdb
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.csprojResolveAssemblyReference.cache
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.Form1.resources
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.Properties.Resources.resources
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.csproj.GenerateResource.Cache
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.exe
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.pdb
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\Interop.WMPLib.dll
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\AxInterop.WMPLib.dll
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.csproj.ResolveComReference.cache
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\bin\Debug\Interop.WMPLib.dll
+G:\[Project]\[C#]\поиграться\ОтключениеМонитора\ОтключениеМонитора\bin\Debug\AxInterop.WMPLib.dll
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\ОтключениеМонитора\ОтключениеМонитора\bin\Debug\ОтключениеМонитора.exe.config
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\Interop.WMPLib.dll
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\AxInterop.WMPLib.dll
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.csproj.ResolveComReference.cache
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.exe
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\ОтключениеМонитора\ОтключениеМонитора\obj\Debug\ОтключениеМонитора.pdb
